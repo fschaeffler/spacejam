@@ -2,22 +2,22 @@
   "name": "spacejam-hikey",
   "version": "1.6.1",
   "dependencies": {
-    "chai": "3.5.0",
-    "glob": "7.1.1",
-    "loglevel": "1.4.1",
-    "phantomjs-prebuilt": "^2.1.13",
+    "chai": "4.2.0",
+    "glob": "7.1.4",
+    "loglevel": "1.6.3",
+    "phantomjs-prebuilt": "^2.1.16",
     "psext": "0.0.4",
-    "rc": "1.1.6",
-    "semver": "5.3.0",
-    "underscore": "1.8.3"
+    "rc": "1.2.8",
+    "semver": "6.3.0",
+    "underscore": "1.9.1"
   },
   "devDependencies": {
-    "coffee-script": "1.11.1",
-    "mocha": "3.1.2",
-    "sinon-chai": "2.8.0",
-    "tmp": "0.0.30",
-    "xmldom": "0.1.22",
-    "xpath": "0.0.23"
+    "coffee-script": "1.12.7",
+    "mocha": "6.2.0",
+    "sinon-chai": "3.3.0",
+    "tmp": "0.1.0",
+    "xmldom": "0.1.27",
+    "xpath": "0.0.27"
   },
   "main": "lib/main.js",
   "scripts": {
