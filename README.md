@@ -1,4 +1,11 @@
+<!---
 [![Build Status](https://travis-ci.org/practicalmeteor/spacejam.svg?branch=master)](https://travis-ci.org/practicalmeteor/spacejam)
+--->
+
+# This project is no longer maintained
+
+Due to leaving the meteor community, this project and all of it's related projects are no longer maintained by it's owners and contributors and has been taken out of [meteor's official guide](https://guide.meteor.com/testing.html#ci).
+
 
 ## Overview
 
